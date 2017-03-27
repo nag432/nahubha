@@ -3,4 +3,4 @@ os: linux
 files:
   - source: index1.html
     destination: /var/www/html/
- 
+    runas: codedeploy
