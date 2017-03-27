@@ -1,6 +1,6 @@
 version: 0.0
 os: linux
 files:
-  - source: index1.html
+  - source: *
     destination: /var/www/html/
     runas: codedeploy
